@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyeonHello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact Me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seyeon321@gmail.com)](mailto:seyeon321@gmail.com)
